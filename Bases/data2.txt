@@ -1,0 +1,3 @@
+test;yo;12
+def;sd;54
+frt;gd;24
